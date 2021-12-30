@@ -1,9 +1,6 @@
 {
   "name": "DiscordSpoilerBot",
   "version": "1.0.1",
-  "engines" : {
-    "node:" : "16.13.1"
-  },
   "description": "",
   "main": "bot.js",
   "scripts": {
